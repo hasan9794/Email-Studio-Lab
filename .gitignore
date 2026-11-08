@@ -4,3 +4,6 @@
 # System files
 .DS_Store
 Thumbs.db
+
+# Installed packages (rebuild with npm install)
+node_modules/
