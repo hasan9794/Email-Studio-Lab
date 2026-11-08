@@ -1,5 +1,5 @@
 Subject: The Steep Club is here
-Preview: New teas to discover and share at home, every single month.
+Preview: New teas to discover and share at home, every month.
 
 Hi {{first_name}},
 
@@ -9,9 +9,9 @@ Each month, your Steep Club box brings new teas to discover and share at home, w
 
 **What's in each box**
 
-- A few teas from different places, each with a short note on where it comes from.
-- A simple brewing card for every tea: how hot the water, how long to steep, which cup.
-- No strings. Skip a month or stop any time.
+- Three teas from different places, each with a short note on where it comes from.
+- A simple brewing card for every tea: how hot to make the water, how long to steep, which cup to use.
+- Skip a month or stop any time. It's up to you.
 
 [Start your Steep Club](https://kettlebird.example/steep-club)
 
@@ -25,9 +25,9 @@ Just reply to this email with 1, 2 or 3. It helps us send you the notes that sui
 
 Thank you for being here from the start. Put the kettle on and enjoy your next cup.
 
-Warmly,
-Hasan
+Warmly,  
+Hasan  
 Founder, Kettlebird Tea
 
-You're getting this because you joined the Kettlebird Tea waitlist.
+You're getting this because you joined the Kettlebird Tea waitlist.  
 Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

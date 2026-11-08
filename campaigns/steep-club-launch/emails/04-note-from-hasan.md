@@ -15,9 +15,9 @@ If you'd like to try a box, it's here whenever you're ready. You can skip a mont
 
 Wishing you and your family a happy new year, and many good cups together.
 
-Warmly,
-Hasan
+Warmly,  
+Hasan  
 Founder, Kettlebird Tea
 
-You're getting this because you joined the Kettlebird Tea waitlist.
+You're getting this because you joined the Kettlebird Tea waitlist.  
 Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

@@ -37,7 +37,7 @@ All 2,000 people chose to join the waitlist. They already like us. Our job is to
 
 **Where they spend time:** their inbox. This plan is email only, so every message must earn its place.
 
-**If we don't know someone's group:** they get the general version of each email. The first email asks them to tell us their group with one click.
+**If we don't know someone's group:** they get the general version of each email. The first email asks them to reply with 1, 2 or 3 to tell us their group. (Each email may have only one link, so we can't use one-click choices.)
 
 ---
 
@@ -105,10 +105,10 @@ Seven emails across four weeks. About two per week, with a quieter final week. "
 | Week | Date | Email | Who gets it | Notes | Status |
 |---|---|---|---|---|---|
 | Before launch | Mon 30 Nov | Final check of sign-up page, gift option and tracking links | n/a | Must be done before Email 1 | Not started |
-| 1 | Mon 7 Dec | **Email 1: "The Steep Club is here"** | Everyone | Launch news. Shows what's in the box. One-click question: "Which sounds like you?" to sort people into groups. | Not started |
+| 1 | Mon 7 Dec | **Email 1: "The Steep Club is here"** | Everyone | Launch news. Shows what's in the box. Reply question: "Which sounds like you?" (reply 1, 2 or 3) to sort people into groups. | Not started |
 | 1 | Thu 10 Dec | **Email 2: "Take a look inside your first box"** | Everyone, 3 versions | Each tea, where it comes from, how to brew it. | Not started |
 | 2 | Mon 14 Dec | **Email 3: group story** | 3 versions | Beginners: "Your first steep, step by step." Gift buyers: "A gift that arrives every month." Daily drinkers: "Something new for your everyday cup." | Not started |
-| 2 | Thu 17 Dec | **Email 4: "Giving a box this Christmas?"** | Gift buyers + anyone who clicked a gift link | Plain facts: the date to order by for delivery before 25 December, and how the gift card works. Calm, not pushy. | Not started |
+| 2 | Thu 17 Dec | **Email 4: "Giving a box this season?"** | Gift buyers + anyone who clicked a gift link | Plain facts: the date to order by for delivery before 25 December, and how the gift card works. Calm, not pushy. | Not started |
 | 3 | Mon 21 Dec | **Email 5: "Questions we're often asked"** | Everyone who hasn't joined | Answers the worries: brewing, skipping a month, stopping, delivery. | Not started |
 | 3 | Thu 24 Dec | (No email) | n/a | A quiet day. We let people enjoy the holiday. | n/a |
 | 4 | Tue 29 Dec | **Email 6: "A new cup for a new year"** | Beginners + daily drinkers who haven't joined | Starting the year with a new tea. For gift buyers: "Gift it for the new year instead." | Not started |
