@@ -13,6 +13,8 @@ This studio plans and writes email campaigns for a small business. We plan campa
 
 - Write in plain English. Use short sentences and everyday words.
 - Never send email to real people.
+  - Sending through Resend is allowed only to Resend's test addresses (ending in `@resend.dev`) and to my own email address (hasanm9794@gmail.com).
+  - A guard will enforce this in the next step.
 - Ask me before deleting anything.
 
 ## Brand voice
